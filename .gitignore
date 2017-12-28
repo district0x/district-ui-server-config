@@ -15,4 +15,4 @@ pom.xml.asc
 /node_modules/
 /figwheel_server.log
 /tests-output/
-/district-ui-server.config.iml
+/district-ui-server-config.iml
