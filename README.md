@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/district0x/district-ui-server-config.svg?branch=master)](https://travis-ci.org/district0x/district-ui-server-config)
 
-Clojurescript [mount](https://github.com/tolitius/mount) + [re-frame](https://github.com/Day8/re-frame) module for a district UI, that loads config from a server. 
+Clojurescript [re-mount](https://github.com/district0x/d0x-INFRA/blob/master/re-mount.md) module, that loads config from a server. 
 
 ## Installation
 Add `[district0x/district-ui-server-config "1.0.0"]` into your project.clj  
